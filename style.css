@@ -1,0 +1,29 @@
+
+div{
+	width: 300px;
+    height: 500px; 
+    background: #1ABDA9;
+}
+div a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+div ul li{
+	list-style-type: none;
+	display: block;
+	padding: 15px; 
+	border-bottom: 1px solid #236D7F;
+}
+div ul li:hover{
+	background: #4097AD;
+	transition: linear all 0.40s;
+	margin-left: 10px;
+}
+/*#divId{
+	float: left;
+}
+#secId{
+	float: left;
+}
+*/
